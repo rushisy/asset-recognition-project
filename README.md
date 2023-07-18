@@ -9,4 +9,4 @@
 - create digital twins in conjunction with gps tracking to view exact location of train at any given time
 - replicate feature similar to GTA 5 where cops have viewing radius if wanted level increases, same idea just with trains on tracks (ex below)
 
-![gta wanted minimap and cops location with sector](https://github.com/RushiY/esri-project/blob/main/gta%20wanted.png)
+![gta wanted minimap and cops location with sector](https://github.com/rushisy/asset-recognition-project/blob/main/gta%20wanted.png)
