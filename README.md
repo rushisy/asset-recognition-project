@@ -40,3 +40,4 @@
 ## NOTES
 
 - virtual environment "(trains)" is not uploaded to github, dependencies and packages used will be updated to the the "help" folder.
+- access to the test footage is avaliable via google drive links in the "help" folder (debating whether to use .mov or the links for final testing)
