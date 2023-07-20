@@ -38,4 +38,4 @@
 
 ## NOTES
 
-- virtual environment "(trains)" is not uploaded to github, dependencies and packages used will be updated to the the "piplist.txt" file.
+- virtual environment "(trains)" is not uploaded to github, dependencies and packages used will be updated to the the "venv replication" folder.
