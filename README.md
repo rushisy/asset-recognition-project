@@ -18,6 +18,7 @@
 - get list of all assets that need to be detected
 - find pictures of all assets
 - install picture labeling software (labellmg)
+- upload testing footage to the "data/workspace/images/test" folder (or find alternative by using google drive link? -> make public)
 
 ## ASSETS FULL LIST
 
