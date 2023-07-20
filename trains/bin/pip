@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/rushisy/Desktop/asset recognition project/trains/bin/python" "$0" "$@"
-' '''
+#!/Users/rushisy/Desktop/asset-recognition-project/trains/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
