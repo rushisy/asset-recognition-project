@@ -18,3 +18,20 @@
 - get list of all assets that need to be detected
 - find pictures of all assets
 - install picture labeling software (labellmg)
+
+## ASSETS FULL LIST
+
+- signal
+- way side
+- switch turnout
+- switch derail
+- structure
+- sign station
+- sign speed
+- sign other
+- sign operating
+- road crossing
+- milepost
+- interlocker
+- insulated joint
+- clearance
