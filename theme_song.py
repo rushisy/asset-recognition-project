@@ -11,4 +11,4 @@ plt.show()
 
 l = 'left'
 r = 'right'
-print('turn ' + l + ' to go ' + r + ' right')
+print('turn ' + l + ' to go ' + r)
