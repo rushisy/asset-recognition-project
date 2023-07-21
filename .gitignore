@@ -2,3 +2,4 @@ trains/
 .ipynb_checkpoints
 data/workspace/images/test/
 data/labelImg/
+data/models
