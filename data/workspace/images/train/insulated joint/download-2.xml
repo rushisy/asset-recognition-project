@@ -1,0 +1,26 @@
+<annotation>
+	<folder>insulated joint</folder>
+	<filename>download-2.jpg</filename>
+	<path>/Users/rushisy/Desktop/asset-recognition-project/data/workspace/images/train/insulated joint/download-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>329</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insulated joint</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>28</ymin>
+			<xmax>303</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>
